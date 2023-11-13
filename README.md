@@ -12,7 +12,7 @@ records on their patient, room, physician, nurses, booking, and patient case. Cr
 3. Establish the relationship of each table using foreign keys. Make use of the Database Schema provided.
 4. Take a screen shot of the Healthcare Database Schema you have created and post in as the first output in MS Word.
 
-# Aggregate Functions (Take a screenshot of the outputs for each and post in MS Word)
+# Aggregate and Join Functions (Take a screenshot of the outputs for each and post in MS Word)
 1. Count the number of physicians whose years of services is Greater Than or Equal to 8 years.
 2. Determine the age of the youngest patient by retrieving the said record.
 3. Retrieve the booking record for attending staff number 12 and also show the name of the staff.
