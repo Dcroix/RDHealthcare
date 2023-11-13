@@ -6,6 +6,8 @@ Your client, a company in healthcare, requires your expertise in establishing a 
 provided services. At the moment, data is stored in different applications and your job is to have them centralized through a relational database. The data includes
 records on their patient, room, physician, nurses, booking, and patient case. Create a relational database following the Database Schema shown below:
 
+![alt text](https://raw.githubusercontent.com/Dcroix/RDHealthcare/main/Healthcare%20DB.png)
+
 # Your Task for Day Three
 1. Import the datasets included in this repository into MySQL; have them imported as one table each.
 2. For each table, make sure you have Primary Keys and Constraints (an important one is that NULL is not allowed)
