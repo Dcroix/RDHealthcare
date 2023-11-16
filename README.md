@@ -8,7 +8,7 @@ records on their patient, room, physician, nurses, booking, and patient case. Cr
 
 ![alt text](https://raw.githubusercontent.com/Dcroix/RDHealthcare/main/Healthcare%20DB.png)
 
-# Your Task for Day Three
+# Your Task for Day Two
 1. Import the datasets included in this repository into MySQL; have them imported as one table each.
 2. For each table, make sure you have Primary Keys and Constraints (an important one is that NULL is not allowed)
 3. Establish the relationship of each table using foreign keys. Make use of the Database Schema provided.
